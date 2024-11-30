@@ -104,6 +104,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Screenshots
 
 ![newplot](https://github.com/user-attachments/assets/355f0a7a-887c-49df-86c4-6ec537ffba9e)
+
 ### Total Sales by Retailer
 The bar chart **"Total Sales by Retailer"** illustrates Adidas' total sales (in USD) across various retail partners. It provides a clear comparison of performance among key retailers, including **Foot Locker**, **Walmart**, **Sports Direct**, **West Gear**, **Kohl's**, and **Amazon**. 
 
@@ -124,6 +125,7 @@ This data-driven analysis supports Adidas in optimizing its sales strategy and e
 
 
 ![newplot (1)](https://github.com/user-attachments/assets/f2c5071c-c1b4-4691-9faf-ec9bba60f9b4)
+
 ### Total Sales Over Time
 The chart titled **"Total Sales Over Time"** illustrates Adidas' monthly sales trends over the analyzed time period. The sales data is plotted with **total sales (in USD)** on the y-axis and time (month-year) on the x-axis.
 
@@ -148,6 +150,7 @@ This visualization is essential for identifying sales seasonality and guiding de
 
 
 ![newplot (2)](https://github.com/user-attachments/assets/56ee8583-5a29-40e7-81ac-a2397a911a66)
+
 ### Total Sales and Units Sold by State
 This chart titled **"Total Sales and Units Sold by State"** showcases the relationship between total revenue (blue bars) and the number of units sold (orange line) for Adidas products across various U.S. states.
 
@@ -172,6 +175,7 @@ This chart aids Adidas in tailoring state-specific strategies to maximize sales 
 
 
 ![newplot (3)](https://github.com/user-attachments/assets/8a89caa6-9e15-415d-a6ae-7816d6f6065e)
+
 ### Sales Distribution Treemap
 The chart visualizes Adidas sales distribution across various cities and regions in the United States. Each region (West, Northeast, South, Southeast, and Midwest) is represented by a group of cities, with the size of each rectangle indicating the relative sales volume for that city. 
 
@@ -183,6 +187,7 @@ This chart provides a clear breakdown of sales distribution, helping identify hi
 
 
 ![newplot (4)](https://github.com/user-attachments/assets/41c61d45-be59-4b22-bee6-c0fcb08862f4)
+
 ### Actual vs. Predicted Sales Plot
 This scatter plot visualizes the **Actual vs. Predicted sales values** for Adidas, highlighting the performance of the predictive model used in this project. 
 
@@ -198,6 +203,7 @@ This plot serves as an evaluation metric for the predictive model and confirms i
 
 
 ![newplot (5)](https://github.com/user-attachments/assets/68b330fa-6c5e-44c9-ad54-cbb291cd69cf)
+
 ### Feature Importance Analysis
 This bar chart illustrates the relative importance of key features used in the predictive model for Adidas sales forecasting. The impact of each feature on the target variable (sales) is measured, highlighting the most influential factors.
 
